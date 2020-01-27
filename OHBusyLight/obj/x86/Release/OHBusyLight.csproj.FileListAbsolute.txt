@@ -1,0 +1,10 @@
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\OHBusyLight.dll
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\OHBusyLight.pdb
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\BusylightSDK.dll
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\ININ.InteractionClient.Addin.dll
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\obj\x86\Release\OHBusyLight.csproj.CopyComplete
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\obj\x86\Release\OHBusyLight.dll
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\obj\x86\Release\OHBusyLight.pdb
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\jxs397\source\repos\OHBusyLight\OHBusyLight\obj\x86\Release\OHBusyLight.csprojAssemblyReference.cache
